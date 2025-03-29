@@ -24,7 +24,7 @@ This project is built using Flutter 3.29.2. To get started, you'll need to have 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mkwtt/to-do-list-app.git
+   git clone https://github.com/mkwtt/To-Do-List-App-Flutter.git
    ```
 
 2. Navigate into the project directory:
